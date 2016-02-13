@@ -1,0 +1,25 @@
+{
+  "name": "objeneric",
+  "version": "1.0.0",
+  "description": "Convert objects/hashes to anything.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-pro/week-1-es5-module-library-Emmurillo.git"
+  },
+  "keywords": [
+    "object",
+    "convert",
+    "cast",
+    "hash"
+  ],
+  "author": "Emmanuel Murillo <emmurillocr@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/js-pro/week-1-es5-module-library-Emmurillo/issues"
+  },
+  "homepage": "https://github.com/js-pro/week-1-es5-module-library-Emmurillo#readme"
+}
