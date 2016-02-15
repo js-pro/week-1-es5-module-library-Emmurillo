@@ -7,7 +7,7 @@ Objeneric is a library that lets you manipulated objects and cast them to many d
 By npm:
 
 ```
-npm install --save
+npm install objeneric --save
 ```
 
 ## Usage
